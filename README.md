@@ -29,3 +29,11 @@ O foco principal deste projeto foi a fidelidade visual:
 * **Fonte Digital:** Utilização da tipografia *Orbitron* para simular os "segmentos de 8" das calculadoras reais.
 * **Neumorfismo:** Botões com profundidade e feedback visual ao clicar.
 * **Esquema de Cores:** Fundo escuro contrastando com o display verde clássico.
+
+## Como executar
+
+```bash
+git clone https://github.com/Zalone03/Projeto-Calculadora-Digital-Estilizada.git
+```
+
+Abra o `index.html` no navegador. Não precisa instalar nada.
